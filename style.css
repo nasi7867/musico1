@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+@media (min-width: 992px){
+.navbar-nav{
+    padding-left: 180px;
+}
+}
+body{
+    overflow-x: hidden;
+}
+.col-md-6 img{
+    height: 500px;
+    width: 500px;
+    
+    
+    
+    
+}
+.col-md-6 video{
+    position: relative;
+    height: 401px;
+    width: 412px;
+    top: -457px;
+    left: 44px;
+    border-radius: 5px;
+    
+}
+.div{
+    height: 600px;
+    padding-top: 30px;
+
+}
+.backgroundimg{
+  background-color: lightpink;
+}
+.bg{
+    background-color: lightcyan;
+    border-bottom: 1px solid;
+}
+.d-block {
+    height: 300px;
+    width: 300px;
+    
+}
+#s{
+    justify-content: center;
+    padding-top: 98px;
+}
+
